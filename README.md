@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P. Sudip Kumar Prusty</h1>
+<h1 align="center">Hey 👋, I'm P. Sudip Kumar Prusty</h1>
 <h3 align="center">A passionate game developer from India.</h3>
 
 <br></br>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/prustysudip" target="blank"><img src="https://img.shields.io/twitter/follow/prustysudip?logo=twitter&style=for-the-badge" alt="prustysudip" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and NodeJS**
+- 🌱 I’m currently learning **Game designing**
 
 - 👨‍💻 All of my projects are available at [https://sudipprustyportfolio.blogspot.com/](https://sudipprustyportfolio.blogspot.com/)
 
