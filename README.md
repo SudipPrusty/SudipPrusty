@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sudipprustysudip1905@gmail.com**
 
-- ⚡ Fun fact **Ctrl+S: The only spell that saves lives in coding.**
+- ⚡ Fun fact: **Ctrl+S, The only spell that saves lives in coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
