@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/prustysudip" target="blank"><img src="https://img.shields.io/twitter/follow/prustysudip?logo=twitter&style=for-the-badge" alt="prustysudip" /></a> </p>
 
-- 🔭 I’m currently working on https://github.com/Chiranjeeb024/Virtual-_Prototyping-_Lab 
+- 🔭 I’m currently working on [Virtual Prototyping Lab] (https://github.com/Chiranjeeb024/Virtual-_Prototyping-_Lab) and [Virtual Zoo] (https://github.com/Chiranjeeb024/Virtual-Zoo)
 
 - 🌱 I’m currently learning **Game designing**
 
 - 👨‍💻 All of my projects are available at [https://sudipprustyportfolio.blogspot.com/](https://sudipprustyportfolio.blogspot.com/)
 
-- 📫 How to reach me **sudipprustysudip1905@gmail.com**
+- 📫 How to reach me **sudipksudip1905@gmail.com**
 
 - ⚡ Fun fact: **Ctrl+S, The only spell that saves lives in coding.**
 
