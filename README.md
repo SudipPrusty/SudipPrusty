@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Game designing**
 
-- 👨‍💻 All of my projects are available at [https://sudipprustyportfolio.blogspot.com/](https://sudipprustyportfolio.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Blogspot](https://sudipprustyportfolio.blogspot.com/)
 
-- 📫 How to reach me **sudipksudip1905@gmail.com**
+- 📫 How to reach me **[Gmail](sudipksudip1905@gmail.com)**
 
 - ⚡ Fun fact: **Ctrl+S, The only spell that saves lives in coding.**
 
