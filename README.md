@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/prustysudip" target="blank"><img src="https://img.shields.io/twitter/follow/prustysudip?logo=twitter&style=for-the-badge" alt="prustysudip" /></a> </p>
 
-<!–– - 🔭 I’m currently working on [Virtual Prototyping Lab](https://github.com/Chiranjeeb024/Virtual-_Prototyping-_Lab) and [Virtual Zoo](https://github.com/Chiranjeeb024/Virtual-Zoo) -->
-
 - 🌱 I’m currently learning **Game designing**
 
 - 👨‍💻 All of my projects are available at [Blogspot](https://sudipprustyportfolio.blogspot.com/)
